@@ -1,0 +1,12 @@
+{
+	"donationType" : "food",
+
+	"payment": {
+		"ammount" : "4000",
+		"cvcNo" : "987654",
+		"cardNo" : "234567856",
+		"expireDate" : "13-4-2027"
+		}
+	
+	
+}
